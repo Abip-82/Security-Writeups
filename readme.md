@@ -1,0 +1,2 @@
+## Quick introduction : 
+Interested in web development and security. Occasionally participate in bug bounty and responsible disclosure programs. I have a few writeups about the security issues that I found in various applications but they were scattered randomly in my github. So I made this repository as a collection of all my existing writeups. will upload future writeups (if did) into this repo.
